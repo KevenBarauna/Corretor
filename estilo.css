@@ -1,0 +1,86 @@
+#foto2 {
+    height: 100%;
+    width: 100%;
+    background-image: url(Fundo.jpg);
+    position: fixed;
+    
+}
+
+body{
+    color: white;
+    font: normal 15pt Arial;
+}
+
+header{
+text-align: center;
+}
+
+header ul{
+    list-style: none;
+}
+
+header ul li{
+    display: inline;
+}
+
+header ul li a{
+    padding: 10px 10px;
+    display: inline-block;
+    text-decoration: none;
+    color: grey;
+}
+
+header ul li a:hover{
+    color: #004d00;
+}
+
+section{
+ background-color: white;
+ border-radius: 10px;
+ padding: 15px;
+ width: 90%;
+ margin: auto;
+ color: black;
+ box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.281);
+}
+
+div{
+    text-align: center;
+    padding: 8px;
+}
+
+#colecao{
+    margin: auto;
+    margin-top: 25px;
+    width: 98%;
+}
+
+#album1 {
+    display: inline;
+}
+
+#album2 {
+    display: inline;
+}
+
+
+#album Imovel2{
+    width: 250px;
+    height: 250px;
+}
+
+footer{
+
+    text-align: center;
+    font-style: italic;
+    background-color: rgba(33, 0, 94, 0.877)
+}
+
+h1{
+    color: rgba(0, 255, 34, 0.548)
+}
+
+
+
+
+
